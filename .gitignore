@@ -1,0 +1,18 @@
+#ignore python files
+*.pyc
+*.pyo
+*.pyd
+
+#ignore virtualenv
+env/
+venv/
+
+#ignore .idea
+.idea/
+
+#ignore .DS_Store
+.DS_Store
+
+#ignore .env
+.env
+
