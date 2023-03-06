@@ -1,0 +1,30 @@
+ipyleaflet
+matplotlib
+Ipython
+seaborn
+
+#data science
+numpy
+pandas
+
+#feature engineering
+scikit-learn
+scipy
+statsmodels
+
+#machine learning
+tensorflow
+
+#planetary computer
+pystac
+pystac-client
+odc-algo
+odc-io
+odc-stats
+planetary-computer
+
+#other
+requests
+rich
+more-itertools
+tqdm
